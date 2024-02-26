@@ -2,7 +2,7 @@ body{
     font: Arial;
     padding: 0;
     margin: 0;
-    background: blue;
+    background: skyblue;
     text-align: center;
     font-style: calibri;
     
@@ -19,7 +19,10 @@ p{
     color: white;
     
 }
-
+.video-container {
+    position: relative;
+    text-align: center;
+}
 .title {
     top: 0;
     left: 0;
