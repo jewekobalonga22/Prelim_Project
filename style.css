@@ -1,0 +1,27 @@
+body{
+    font: Arial;
+    padding: 0;
+    margin: 0;
+    background: skyblue;
+    text-align: center;
+    font-style: calibri;
+    
+}
+h1,h2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-weight:bold;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    
+}
+
+.title {
+    top: 0;
+    left: 0;
+    right: 0;
+}
